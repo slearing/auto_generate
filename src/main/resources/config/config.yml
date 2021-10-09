@@ -1,0 +1,17 @@
+beetl:
+  tempDir: E:\syh\vue_code\auto-generate\src\main\resources\temp #beetl模板的总路径
+  fileDir: E:\fileDir #生成的文件存放路径
+
+packName: GWYGL_KSLYGL_004_0001 #包名
+
+database: #数据库相关
+  conInfo: #连接信息
+    userName: HY_GWYGL_BS
+    password: hy_gwygl_bs
+    driverClassName: dm:jdbc:driver:DmDriver
+    url: jdbc:dm://localhost:5236/DAMENG
+  tableInfo: #流程表相关
+    majorTable: Y119
+    itemTable: Y120
+
+

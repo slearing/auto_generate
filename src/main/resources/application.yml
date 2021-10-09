@@ -1,0 +1,24 @@
+beetl:
+  tempDir: E:/syh/java_code/auto_generate/src/main/resources/temp
+  fileDir: E:/fileDir
+
+packName: GWYGL_KSLYGL_004_0001
+
+database:
+  conInfo:
+    userName: HY_GWYGL_BS
+    password: hy_gwygl_bs
+    driverClassName: dm:jdbc:driver:DmDriver
+    url: jdbc:dm://localhost:5236/DAMENG
+  tableInfo:
+    majorTable: Y119
+    itemTable: Y120
+
+
+
+tableInfo:
+  primaryKey: 00
+  processName: 01
+  securityLevel: 97
+  processSatus: 98
+

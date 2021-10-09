@@ -1,0 +1,6 @@
+#本文件不推荐修改
+tableInfo:
+  primaryKey: 00 #主键
+  processName: 01 #申请名称字段
+  securityLevel: 97 #密级字段
+  processSatus: 98 #流程状态字段
